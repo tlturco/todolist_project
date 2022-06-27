@@ -1,5 +1,5 @@
-const Todo = require('./lib/todo');
-const TodoList = require('./lib/todolist');
+const Todo = require('../lib/todo');
+const TodoList = require('../lib/todolist');
 
 // eslint-disable-next-line max-lines-per-function
 describe('TodoList', () => {
